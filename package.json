@@ -1,0 +1,21 @@
+{
+  "name": "SocialPopper",
+  "version": "0.0.1",
+  "description": "social share button popups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rafflecopter/SocialPopper.git"
+  },
+  "author": "Justin Ratner (justin@rafflecopter.com)",
+  "license": "MIT",
+
+  "dependencies": {
+  },
+
+  "devDependencies": {
+  }
+}
