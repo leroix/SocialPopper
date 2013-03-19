@@ -13,7 +13,7 @@ exports.popit = function(method, params) {
                     'top=%%,'.replace('%%', p['top'] || '50') +
                     'left=%%'.replace('%%', p['left'] || '50')
 
-        return window.open(url, p['title'] || 'Share', props)
+        return window.open(url, '_blank', props)
     }
 
     function _buildUrl(url, params, defaults) {
